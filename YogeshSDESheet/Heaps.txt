@@ -1,0 +1,14 @@
+1. Heapify Algo - max heap & min heap
+2. Heap Sort
+3. Kth smallest /Largest no. in array
+4. Kth Largest sum Subarray
+5. Merge 'K' Sorted Arrays
+6. Merge 'K' Sorted Linked list
+7. Smallest Range in 'K' Sorted list
+8. Merge 2 Max Heaps
+9. Check tree is a Heap
+10. Minimum cost of Ropes Problem
+11. Median in a stream
+12. 'K' most frequent elements
+13. Convert BST to min-Heap
+14. Max. Sum Combination

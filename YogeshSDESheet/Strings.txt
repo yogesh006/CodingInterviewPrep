@@ -1,0 +1,12 @@
+1. Reverse words in a string
+2. Longest Palindrome in string
+3. Roman number to Integer & vice versa
+4. Implement ATOI /STRSTR
+5. Longest Common Prefix
+6. Rabin Karp
+7. 'Z-'function
+8. KMP algo / LPS(pi) array
+9. Minimum character needed to be inserted in beginning to make it palindrome
+10. Check for Anagrams
+11. Count & Say
+12. Compare version numbers

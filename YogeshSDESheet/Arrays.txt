@@ -1,0 +1,45 @@
+1. Largest Element in array
+2. Check if array is sorted
+3. Second largest Element without sorting
+4. Linear Search
+5. Left Rotate an array by 1 place
+6. Left Rotate an array by D place
+7. Max. Consecutive 1's
+8. Remove Duplicates from sorted array
+9. Find missing no. in an array
+10. Find number that appears once and other number twice.
+11. Find the Union
+12. 2 Sum Problem
+13. 3 Sum Problem
+14. 4 Sum Problem
+15. Search in a 2D matrix
+16. Leaders in Array Problem
+17. Print Matrix in Spiral Manner
+18. Rearrange array in alternative negative and positive items
+19. Rotate matrix by 90 degree
+20. Find duplicate in array (N+1) integer
+21. Kadanes Algo, max. Subrray Sum
+22. Print Subarray with max. Subarray sum
+23. Grid Unique Paths
+24. Sort an array of 0's, 1's and 2's
+25. Pascal's Triangle
+26. Majority Element (>n/2 times)
+27. Majority ELement (n/3) times
+28. Next Permutation
+29. Set Matrix Zeroes.
+30. Merge Overlapping Subintervals
+31. Merge two sorted arrays without extra space
+32. Longest Consecutive Sequence in a array
+33. Longest Subarray with sum 'K' (positive) 
+34. Longest Subarray with sum 'K' (positive and negatives)
+35. Count Subarray with Sum
+36. Count no. of Subarray with given XOR K
+37. Find Repeating and missing number
+38. Maximum Product Subarray    - (D.P)
+39. Merge Sort
+40. Count Inversions
+41. Reverse Pairs
+42. Longest Substring without Repeating Character
+43. Pow(x, n)
+44. Trapping Rain water
+45. Stock Buy & Sell

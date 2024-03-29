@@ -1,0 +1,32 @@
+1. Stack & its implementation
+2. 2 Stacks in an array
+3. Implement Stack using queue
+4. Reverse a stack
+5. Sort a stack
+6. Valid Parenthesis
+7. Redundant Brackets
+8. Next Greater Element
+9. Next Smaller Element
+10. LRU Cache
+11. LFU Cache
+12. Sliding window maximum
+13. Implement Min Stack
+14. Rotten Orange(using BFS)
+15. Stock Span Problem
+16. Find Max. of minimums of Every window size
+17. Queue & Impl
+18. Circular Queue
+19. Doubly Ended Queue
+20. Queue Reversal
+21. Reverse first 'K' element of Queue
+22. First non-Repeating character in stream
+23. Circular tour
+24. 'K' Queue in single Array
+25. Sum of min & max elements of all subarray of size 'K'
+26. Implement Queue using stack
+27. Minimum Brackets
+28. Largest Rectangular Area in histogram
+29. Celebrity Problem
+30. Max Rectangle in Binay Matrix with all 1's
+31. 'N' Stack in array
+32. GetMin() Element from stack in o(1) time and Space

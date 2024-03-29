@@ -1,0 +1,29 @@
+1. Reverse a number
+2. Fibonacci series 
+3. GCD
+4. Perfect number
+5. Frequency of Character in a string
+6. Leap year or not
+7. Non-repeating character in a string
+8. Replace substring in string
+9. Replace each element in an array by its rank in the array
+10. Find non-repeating element in array
+11. longest palindrome in array
+12. factorial number
+13. Armstrong Number
+14. sum of natural number using recursion
+15. Add 2 matrix 
+16. Binary to Decimal
+17. Vowel or consonant
+18. Automorphic number
+19. Remove all character from string except alphabets
+20. smallest element of array
+21. Reverse element of array
+22. Sum of Digits of number
+23. Find out power of number
+24. Find add two fractions
+25. Find the roots of quadratic equation
+26. Find the prime factors of number
+27. Convert Digit to words
+28. Reverse an array
+29. Check two strings match where one string contains wildcard characters

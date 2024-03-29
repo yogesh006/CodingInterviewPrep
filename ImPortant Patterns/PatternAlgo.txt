@@ -1,0 +1,69 @@
+
+Algo pattern:
+
+Searching Algorithms:
+
+Linear Search
+Binary Search
+Depth-First Search (DFS)
+Breadth-First Search (BFS)
+
+Sorting Algorithms:
+
+Bubble Sort
+Selection Sort
+Insertion Sort
+Merge Sort
+Quick Sort
+
+Graph Algorithms:
+
+Dijkstra's Algorithm (Shortest Path)
+Bellman-Ford Algorithm (Shortest Path with Negative Weights)
+Kruskal's Algorithm (Minimum Spanning Tree)
+Prim's Algorithm (Minimum Spanning Tree)
+
+Dynamic Programming Algorithms:
+
+Fibonacci Sequence (Classic example)
+Longest Common Subsequence (LCS)
+Knapsack Problem
+Shortest Path in a Graph
+
+Tree Algorithms:
+
+Depth-First Traversal (Preorder, Inorder, Postorder)
+Breadth-First Traversal
+Binary Search Tree (BST) operations
+
+Greedy Algorithms:
+
+Kruskal's Algorithm (mentioned earlier)
+Prim's Algorithm (mentioned earlier)
+Huffman Coding (Data Compression)
+
+Backtracking Algorithms:
+
+N-Queens Problem
+Sudoku Solver
+Hamiltonian Cycle
+
+String Matching Algorithms:
+
+Naive String Matching
+KMP Algorithm (Knuth-Morris-Pratt)
+Rabin-Karp Algorithm
+
+Mathematical Algorithms:
+
+Euclidean Algorithm (GCD)
+Sieve of Eratosthenes (Prime Numbers)
+Fast Exponentiation
+
+Divide and Conquer Algorithms:
+
+Merge Sort (mentioned earlier)
+Quick Sort (mentioned earlier)
+Closest Pair of Points
+
+These are just a few examples, and there are many more algorithms designed to solve specific types of problems efficiently. The choice of algorithm depends on the nature of the problem, input size, and performance requirements.

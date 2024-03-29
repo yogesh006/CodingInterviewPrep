@@ -1,0 +1,17 @@
+1. Binary Search impl
+2. BS - First/Last position of an Element
+3. BS - Peak in Mountain array
+4. BS - Find pivot in an array
+5. BS - Search in a sorted Rotated array
+6. BS - Find square root using BFS
+7. Book Allocation
+8. Painter's Partition
+9. Aggressive Cows
+10. Median of 2 sorted array
+11. Matrix Median
+12. Nth Root of a no. using Binary Search
+13. Selection Sort
+14. Insertion Sort
+15. Merge Sort
+16. Quick Sort
+17. Bubble Sort

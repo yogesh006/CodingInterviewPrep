@@ -1,0 +1,18 @@
+1. Reverse a LL
+2. Middle of LL
+3. Reverse ll in 'K' group
+4. Check circular ll
+5. Detect and Remove loop in LL
+6. Remove Duplicates in sorted / unsorted LL
+7. Sort 0's, 1's and 2's 
+8. Merge 2 Sorted LL
+9. Palindrome LL check
+10. Add 2 number in LL
+11. Clone a LL with Random Pointer
+12. Merge Sort in LL
+13. Flatten a LL
+14. Remove N'th node from back of LL
+15. Delete a given node from LL
+16. Find intersection point of 'Y' in LL
+17. Find starting point of Loop in LL
+18. Rotate a LL

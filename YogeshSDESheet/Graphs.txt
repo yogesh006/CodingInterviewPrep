@@ -1,0 +1,18 @@
+1. Clone a graph
+2. DFS
+3. BFS
+4. Detect a cycle in undirected graph using BFS
+5. Detect a cycle in undirected graph using DFS
+6. Detect a cycle in directed graph using BFS
+7. Detect a cycle in directed graph using DFS
+8. Topological sort BFS
+9. Topological sort DFS
+10. No. of islands (do in GRid and Graph Both)
+11. Bipartite Check using BFS
+12. Bipartite Check using DFS
+13. Strongly connected component (using Kosaraju algo)
+14. Dijkstra Algo
+15. Bellman-ford algo
+16. Floyd warshall algo
+17. MST using Prim's Algo
+18. MST using Kruskal Algo

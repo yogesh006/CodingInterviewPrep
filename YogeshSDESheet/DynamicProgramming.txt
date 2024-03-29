@@ -1,0 +1,15 @@
+1. Climbing Stairs - (B&R)
+2. Max. Product Subarray - (array)
+3. Longest Increasing Subsequence
+4. Longest Common Subsequence
+5. 0-1 Knapsack Problem
+6. Edit Distance
+7. Max. Sum increasing Subsequence
+8. Matrix chain multiplication
+9. Coin Change - (GREEDY)
+10. Subset Sum - (B&R)
+11. Rod Cutting 
+12. Egg Dropping
+13. Word Break
+14. Palindrome Partitioning - (B&R)
+15. Max. Profit in job scheduling

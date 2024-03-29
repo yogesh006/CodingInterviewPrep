@@ -1,0 +1,7 @@
+1. Impl Trie(Prefix tree) - I
+2. Impl Trie(Prefix tree) - II
+3. Longest String with All Prefixes
+4. No. of Distinct substring in a string
+5. Power set
+6. Max. XOR of 2 numbers in array
+7. Max. XOR with an element from array
