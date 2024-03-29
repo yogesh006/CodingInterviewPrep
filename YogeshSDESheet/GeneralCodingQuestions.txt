@@ -27,3 +27,4 @@
 27. Convert Digit to words
 28. Reverse an array
 29. Check two strings match where one string contains wildcard characters
+30. Check Prime number
