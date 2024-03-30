@@ -1,0 +1,10 @@
+1. Count Set Bit in a integer
+2. Find 2 non- repeating element in array of repeating elements
+3. Count no. of bits to be flipped to convert A to B
+4. Count total set bits in all no. from 1 to n
+5. Find a number is power of two or not
+6. Find position of the only set bit
+7. Copy set bits in a range
+8. Divide two integers without using multiplication, division and mod operator
+9. Calculate square of a number without using *, / and pow()
+10. Power Set
