@@ -8,5 +8,6 @@
 8. KMP algo / LPS(pi) array
 9. Minimum character needed to be inserted in beginning to make it palindrome
 10. Check for Anagrams
-11. Count & Say
-12. Compare version numbers
+11. Group Anagrams together
+12. Count & Say
+13. Compare version numbers
