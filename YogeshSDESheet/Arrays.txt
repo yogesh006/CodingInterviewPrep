@@ -43,3 +43,4 @@
 43. Pow(x, n)
 44. Trapping Rain water
 45. Stock Buy & Sell
+46. Find number of islands
