@@ -30,8 +30,8 @@
 30. Merge Overlapping Subintervals
 31. Merge two sorted arrays without extra space
 32. Longest Consecutive Sequence in a array
-33. Longest Subarray with sum 'K' (positive) 
-34. Longest Subarray with sum 'K' (positive and negatives)
+33. Longest Subarray with sum 'K' (positive)   //PrefixSum
+34. Longest Subarray with sum 'K' (positive and negatives)  //PrefixSum for opt
 35. Count Subarray with Sum
 36. Count no. of Subarray with given XOR K
 37. Find Repeating and missing number
